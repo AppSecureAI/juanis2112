@@ -1,0 +1,13 @@
+file_name,benchmark_version,category,test_number,vulnerability,cwe
+p_1.py,1.0,xss,7,false,79
+p_5.py,1.0,sqli,11,false,89
+1.py,1.0,xss,1,true,79
+2.py,1.0,xss,2,true,79
+5.py,1.0,sqli,5,true,89
+6.py,1.0,sqli,6,true,89
+4.py,1.0,sqli,4,true,89
+p_2.py,1.0,xss,8,false,79
+p_6.py,1.0,sqli,12,false,89
+3.py,1.0,xss,3,true,79
+p_3.py,1.0,xss,9,false,79
+p_4.py,1.0,sqli,10,false,89
